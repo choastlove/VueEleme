@@ -1,4 +1,4 @@
-#高仿饿了么app商家详情 （vue2 +vue-router2 + es6 +webpack ）
+#高仿饿了么app商家详情
 
 ![QQ截图20170104094615.png](http://upload-images.jianshu.io/upload_images/4249223-b3892be740f34fc3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
